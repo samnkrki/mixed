@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>potato-689.jpg</filename>
+	<path>E:\mixed\potato\images\potato-689.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>6000</width>
+		<height>8000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>PEB</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1649</xmin>
+			<ymin>825</ymin>
+			<xmax>5013</xmax>
+			<ymax>6400</ymax>
+		</bndbox>
+	</object>
+</annotation>

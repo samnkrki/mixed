@@ -1,0 +1,26 @@
+<annotation>
+	<folder>potato</folder>
+	<filename>potato-442.jpg</filename>
+	<path>F:\leafimg\potato\potato-442.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1944</width>
+		<height>2592</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>INS</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>726</xmin>
+			<ymin>870</ymin>
+			<xmax>1335</xmax>
+			<ymax>1639</ymax>
+		</bndbox>
+	</object>
+</annotation>

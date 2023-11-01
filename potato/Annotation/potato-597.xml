@@ -1,0 +1,26 @@
+<annotation>
+	<folder>potato</folder>
+	<filename>potato-597.jpg</filename>
+	<path>F:\leafimg\potato\potato-597.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1840</width>
+		<height>4080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>LB-LCV</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>919</ymin>
+			<xmax>1840</xmax>
+			<ymax>4080</ymax>
+		</bndbox>
+	</object>
+</annotation>

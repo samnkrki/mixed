@@ -1,0 +1,26 @@
+<annotation>
+	<folder>potato</folder>
+	<filename>potato-887.jpg</filename>
+	<path>D:\leafimg\potato\potato-887.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>CLB</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1674</xmin>
+			<ymin>2887</ymin>
+			<xmax>1712</xmax>
+			<ymax>2926</ymax>
+		</bndbox>
+	</object>
+</annotation>

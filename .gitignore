@@ -1,0 +1,9 @@
+images/
+*.jpg
+potato_many
+*.txt
+capsicum
+tomato
+chilli
+labels/
+*.csv

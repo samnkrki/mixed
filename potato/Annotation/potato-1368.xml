@@ -1,0 +1,26 @@
+<annotation>
+	<folder>potato frag</folder>
+	<filename>potato-1368.jpg</filename>
+	<path>G:\samin\potato frag\potato-1368.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5760</width>
+		<height>4312</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>PBRS</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2416</xmin>
+			<ymin>1408</ymin>
+			<xmax>3896</xmax>
+			<ymax>3208</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,50 @@
+<annotation>
+	<folder>potato frag</folder>
+	<filename>potato-1960.jpg</filename>
+	<path>G:\samin\potato frag\potato-1960.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4312</width>
+		<height>5760</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>LB</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>865</xmin>
+			<ymin>1106</ymin>
+			<xmax>3365</xmax>
+			<ymax>4006</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>LB</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>765</xmin>
+			<ymin>4015</ymin>
+			<xmax>4201</xmax>
+			<ymax>5760</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>LB</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3146</xmin>
+			<ymin>2643</ymin>
+			<xmax>4312</xmax>
+			<ymax>3943</ymax>
+		</bndbox>
+	</object>
+</annotation>

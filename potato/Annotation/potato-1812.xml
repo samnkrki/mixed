@@ -1,0 +1,26 @@
+<annotation>
+	<folder>potato_phone</folder>
+	<filename>potato-1812.jpg</filename>
+	<path>D:\potato_phone\potato-1812.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4312</width>
+		<height>5760</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>PLM</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1931</xmin>
+			<ymin>2623</ymin>
+			<xmax>2544</xmax>
+			<ymax>3148</ymax>
+		</bndbox>
+	</object>
+</annotation>

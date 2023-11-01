@@ -1,0 +1,26 @@
+<annotation>
+	<folder>potato_leaf_images</folder>
+	<filename>potato-834.jpg</filename>
+	<path>D:\potato_leaf_images\potato-834.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4160</width>
+		<height>3120</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>LB</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1787</xmin>
+			<ymin>1073</ymin>
+			<xmax>2387</xmax>
+			<ymax>2612</ymax>
+		</bndbox>
+	</object>
+</annotation>

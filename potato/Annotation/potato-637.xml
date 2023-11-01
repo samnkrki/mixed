@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>potato-637.jpg</filename>
+	<path>E:\mixed\potato\images\potato-637.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2592</width>
+		<height>1944</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>LB</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1670</xmin>
+			<ymin>760</ymin>
+			<xmax>1736</xmax>
+			<ymax>850</ymax>
+		</bndbox>
+	</object>
+</annotation>

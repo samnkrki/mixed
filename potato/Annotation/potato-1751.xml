@@ -1,0 +1,38 @@
+<annotation>
+	<folder>potato frag</folder>
+	<filename>potato-1751.jpg</filename>
+	<path>G:\samin\potato frag\potato-1751.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5760</width>
+		<height>4312</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>INS</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2259</xmin>
+			<ymin>62</ymin>
+			<xmax>3586</xmax>
+			<ymax>822</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>INS</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1053</xmin>
+			<ymin>1122</ymin>
+			<xmax>2846</xmax>
+			<ymax>2649</ymax>
+		</bndbox>
+	</object>
+</annotation>
