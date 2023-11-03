@@ -1,7 +1,7 @@
 <annotation>
-	<folder>images</folder>
+	<folder>potato</folder>
 	<filename>potato-1445.jpg</filename>
-	<path>E:\mixed\potato\images\potato-1445.jpg</path>
+	<path>D:\leafimg\potato\potato-1445.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,7 +12,7 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>PEB</name>
+		<name>LB</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -156,7 +156,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>PEB</name>
+		<name>LB</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -168,7 +168,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>PEB</name>
+		<name>LB</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -180,19 +180,19 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>PEB</name>
+		<name>LB</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1458</xmin>
+			<xmin>1459</xmin>
 			<ymin>871</ymin>
-			<xmax>1864</xmax>
+			<xmax>1865</xmax>
 			<ymax>1276</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>PEB</name>
+		<name>LB</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -204,7 +204,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>PEB</name>
+		<name>LB</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -216,7 +216,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>PEB</name>
+		<name>LB</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -228,7 +228,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>PEB</name>
+		<name>LB</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -240,7 +240,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>PEB</name>
+		<name>LB</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -252,7 +252,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>PEB</name>
+		<name>LB</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -264,7 +264,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>PEB</name>
+		<name>LB</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -276,7 +276,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>PEB</name>
+		<name>LB</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -288,7 +288,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>PEB</name>
+		<name>LB</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -300,7 +300,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>PEB</name>
+		<name>LB</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -312,7 +312,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>PEB</name>
+		<name>LB</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -324,7 +324,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>PEB</name>
+		<name>LB</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>

@@ -1,7 +1,7 @@
 <annotation>
-	<folder>images</folder>
+	<folder>potato</folder>
 	<filename>potato-488.jpg</filename>
-	<path>E:\mixed\potato\images\potato-488.jpg</path>
+	<path>D:\leafimg\potato\potato-488.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -129,6 +129,18 @@
 			<ymin>1724</ymin>
 			<xmax>1146</xmax>
 			<ymax>1838</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>INS</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>857</xmin>
+			<ymin>1183</ymin>
+			<xmax>1354</xmax>
+			<ymax>1383</ymax>
 		</bndbox>
 	</object>
 </annotation>

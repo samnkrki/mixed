@@ -1,26 +1,26 @@
 <annotation>
 	<folder>potato</folder>
-	<filename>potato-527.jpg</filename>
-	<path>D:\leafimg\potato\potato-527.jpg</path>
+	<filename>potato-278.jpg</filename>
+	<path>D:\leafimg\potato\potato-278.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>4080</width>
-		<height>1840</height>
+		<width>1600</width>
+		<height>1200</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>LCV</name>
+		<name>LB</name>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
+		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>45</xmin>
-			<ymin>24</ymin>
-			<xmax>4080</xmax>
-			<ymax>1840</ymax>
+			<xmin>425</xmin>
+			<ymin>968</ymin>
+			<xmax>561</xmax>
+			<ymax>1069</ymax>
 		</bndbox>
 	</object>
 </annotation>
