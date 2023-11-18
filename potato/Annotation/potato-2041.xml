@@ -1,7 +1,7 @@
 <annotation>
-	<folder>potato</folder>
+	<folder>images</folder>
 	<filename>potato-2041.jpg</filename>
-	<path>G:\samin\potato\potato-2041.jpg</path>
+	<path>E:\mixed\potato\images\potato-2041.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1174</xmin>
-			<ymin>1934</ymin>
-			<xmax>3319</xmax>
-			<ymax>3225</ymax>
+			<xmin>1753</xmin>
+			<ymin>2404</ymin>
+			<xmax>2344</xmax>
+			<ymax>3009</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,34 +29,70 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1501</xmin>
-			<ymin>2679</ymin>
-			<xmax>3746</xmax>
-			<ymax>4052</ymax>
+			<xmin>1601</xmin>
+			<ymin>2575</ymin>
+			<xmax>1929</xmax>
+			<ymax>2923</ymax>
 		</bndbox>
 	</object>
 	<object>
 		<name>LB</name>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
+		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1</xmin>
-			<ymin>3706</ymin>
-			<xmax>610</xmax>
-			<ymax>4252</ymax>
+			<xmin>1405</xmin>
+			<ymin>2813</ymin>
+			<xmax>1577</xmax>
+			<ymax>3037</ymax>
 		</bndbox>
 	</object>
 	<object>
 		<name>LB</name>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
+		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>3546</xmin>
-			<ymin>561</ymin>
-			<xmax>4312</xmax>
-			<ymax>1597</ymax>
+			<xmin>2225</xmin>
+			<ymin>2447</ymin>
+			<xmax>2553</xmax>
+			<ymax>2970</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>LB</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2263</xmin>
+			<ymin>1928</ymin>
+			<xmax>2439</xmax>
+			<ymax>2075</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>LB</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2554</xmin>
+			<ymin>2454</ymin>
+			<xmax>2767</xmax>
+			<ymax>2612</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>LB</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2954</xmin>
+			<ymin>2334</ymin>
+			<xmax>3151</xmax>
+			<ymax>2499</ymax>
 		</bndbox>
 	</object>
 </annotation>

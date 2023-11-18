@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2100</xmin>
-			<ymin>447</ymin>
-			<xmax>3330</xmax>
-			<ymax>1867</ymax>
+			<xmin>2322</xmin>
+			<ymin>494</ymin>
+			<xmax>2899</xmax>
+			<ymax>945</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1835</xmin>
-			<ymin>1727</ymin>
-			<xmax>2960</xmax>
-			<ymax>2747</ymax>
+			<xmin>2167</xmin>
+			<ymin>1884</ymin>
+			<xmax>2396</xmax>
+			<ymax>1994</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>LB</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>22</xmin>
+			<ymin>223</ymin>
+			<xmax>822</xmax>
+			<ymax>916</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,58 +53,10 @@
 		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1</xmin>
+			<xmin>296</xmin>
 			<ymin>1</ymin>
-			<xmax>1080</xmax>
-			<ymax>952</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>LB</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1250</xmin>
-			<ymin>552</ymin>
-			<xmax>1580</xmax>
-			<ymax>832</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>LB</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>870</xmin>
-			<ymin>2207</ymin>
-			<xmax>1435</xmax>
-			<ymax>2712</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>LB</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>350</xmin>
-			<ymin>1292</ymin>
-			<xmax>1515</xmax>
-			<ymax>2192</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>LB</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1833</xmin>
-			<ymin>680</ymin>
-			<xmax>2020</xmax>
-			<ymax>973</ymax>
+			<xmax>954</xmax>
+			<ymax>255</ymax>
 		</bndbox>
 	</object>
 </annotation>

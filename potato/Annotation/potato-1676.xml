@@ -11,40 +11,4 @@
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
-	<object>
-		<name>LB</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1176</xmin>
-			<ymin>2308</ymin>
-			<xmax>2572</xmax>
-			<ymax>3258</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>LB</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>40</xmin>
-			<ymin>2921</ymin>
-			<xmax>925</xmax>
-			<ymax>3542</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>LB</name>
-		<pose>Unspecified</pose>
-		<truncated>1</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1007</xmin>
-			<ymin>3661</ymin>
-			<xmax>1731</xmax>
-			<ymax>4128</ymax>
-		</bndbox>
-	</object>
 </annotation>

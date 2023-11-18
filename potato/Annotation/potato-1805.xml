@@ -1,7 +1,7 @@
 <annotation>
-	<folder>potato_phone</folder>
+	<folder>images</folder>
 	<filename>potato-1805.jpg</filename>
-	<path>D:\potato_phone\potato-1805.jpg</path>
+	<path>E:\mixed\potato\images\potato-1805.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -11,16 +11,4 @@
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
-	<object>
-		<name>LB</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1844</xmin>
-			<ymin>2761</ymin>
-			<xmax>2606</xmax>
-			<ymax>4467</ymax>
-		</bndbox>
-	</object>
 </annotation>

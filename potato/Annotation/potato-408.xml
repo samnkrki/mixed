@@ -17,22 +17,94 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>246</xmin>
-			<ymin>1803</ymin>
-			<xmax>2033</xmax>
-			<ymax>2863</ymax>
+			<xmin>698</xmin>
+			<ymin>2229</ymin>
+			<xmax>947</xmax>
+			<ymax>2411</ymax>
 		</bndbox>
 	</object>
 	<object>
 		<name>LB</name>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
+		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2513</xmin>
-			<ymin>1410</ymin>
-			<xmax>3120</xmax>
-			<ymax>2196</ymax>
+			<xmin>1522</xmin>
+			<ymin>1911</ymin>
+			<xmax>2049</xmax>
+			<ymax>2322</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>LB</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1407</xmin>
+			<ymin>2044</ymin>
+			<xmax>1533</xmax>
+			<ymax>2189</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>LB</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1198</xmin>
+			<ymin>2220</ymin>
+			<xmax>1504</xmax>
+			<ymax>2611</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>LB</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>489</xmin>
+			<ymin>2598</ymin>
+			<xmax>711</xmax>
+			<ymax>2767</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>LB</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>253</xmin>
+			<ymin>2207</ymin>
+			<xmax>622</xmax>
+			<ymax>2591</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>LB</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>438</xmin>
+			<ymin>1973</ymin>
+			<xmax>860</xmax>
+			<ymax>2153</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>LB</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>576</xmin>
+			<ymin>1811</ymin>
+			<xmax>824</xmax>
+			<ymax>1902</ymax>
 		</bndbox>
 	</object>
 </annotation>

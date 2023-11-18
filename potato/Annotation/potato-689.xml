@@ -12,15 +12,39 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>PEB</name>
+		<name>LB</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1649</xmin>
-			<ymin>825</ymin>
-			<xmax>5013</xmax>
-			<ymax>6400</ymax>
+			<xmin>4150</xmin>
+			<ymin>2025</ymin>
+			<xmax>4950</xmax>
+			<ymax>4500</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>LB</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2614</xmin>
+			<ymin>4436</ymin>
+			<xmax>3011</xmax>
+			<ymax>4904</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>LB</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2650</xmin>
+			<ymin>4450</ymin>
+			<xmax>4550</xmax>
+			<ymax>6412</ymax>
 		</bndbox>
 	</object>
 </annotation>

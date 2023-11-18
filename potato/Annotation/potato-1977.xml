@@ -14,37 +14,13 @@
 	<object>
 		<name>LB</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>126</xmin>
-			<ymin>2</ymin>
-			<xmax>2219</xmax>
-			<ymax>982</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>LB</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>2819</xmin>
-			<ymin>49</ymin>
-			<xmax>4613</xmax>
-			<ymax>1076</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>LB</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>2319</xmin>
-			<ymin>902</ymin>
-			<xmax>3326</xmax>
-			<ymax>3562</ymax>
+			<xmin>339</xmin>
+			<ymin>1</ymin>
+			<xmax>1259</xmax>
+			<ymax>989</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -62,49 +38,13 @@
 	<object>
 		<name>LB</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>2979</xmin>
-			<ymin>2869</ymin>
-			<xmax>4286</xmax>
-			<ymax>3516</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>LB</name>
-		<pose>Unspecified</pose>
 		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>4659</xmin>
-			<ymin>3556</ymin>
-			<xmax>5273</xmax>
+			<ymin>3588</ymin>
+			<xmax>5208</xmax>
 			<ymax>4312</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>LB</name>
-		<pose>Unspecified</pose>
-		<truncated>1</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>3926</xmin>
-			<ymin>3322</ymin>
-			<xmax>4679</xmax>
-			<ymax>4312</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>LB</name>
-		<pose>Unspecified</pose>
-		<truncated>1</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>4813</xmin>
-			<ymin>2822</ymin>
-			<xmax>5760</xmax>
-			<ymax>3642</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -113,10 +53,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>4286</xmin>
-			<ymin>2362</ymin>
-			<xmax>5526</xmax>
-			<ymax>2896</ymax>
+			<xmin>3436</xmin>
+			<ymin>2964</ymin>
+			<xmax>3844</xmax>
+			<ymax>3288</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -125,10 +65,82 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>3033</xmin>
-			<ymin>2089</ymin>
-			<xmax>4139</xmax>
-			<ymax>2602</ymax>
+			<xmin>2972</xmin>
+			<ymin>1024</ymin>
+			<xmax>3216</xmax>
+			<ymax>1176</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>LB</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2880</xmin>
+			<ymin>1204</ymin>
+			<xmax>3240</xmax>
+			<ymax>1844</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>LB</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2976</xmin>
+			<ymin>1856</ymin>
+			<xmax>3180</xmax>
+			<ymax>2016</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>LB</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2660</xmin>
+			<ymin>2132</ymin>
+			<xmax>3044</xmax>
+			<ymax>2824</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>LB</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2260</xmin>
+			<ymin>2820</ymin>
+			<xmax>3076</xmax>
+			<ymax>3512</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>LB</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2516</xmin>
+			<ymin>2196</ymin>
+			<xmax>2692</xmax>
+			<ymax>2848</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>LB</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2480</xmin>
+			<ymin>1568</ymin>
+			<xmax>2728</xmax>
+			<ymax>2188</ymax>
 		</bndbox>
 	</object>
 </annotation>

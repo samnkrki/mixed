@@ -43,20 +43,8 @@
 		<bndbox>
 			<xmin>1269</xmin>
 			<ymin>1939</ymin>
-			<xmax>1408</xmax>
-			<ymax>2089</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>PEB</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>911</xmin>
-			<ymin>1770</ymin>
-			<xmax>1057</xmax>
-			<ymax>1875</ymax>
+			<xmax>1382</xmax>
+			<ymax>2063</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -67,32 +55,8 @@
 		<bndbox>
 			<xmin>625</xmin>
 			<ymin>1888</ymin>
-			<xmax>772</xmax>
-			<ymax>2005</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>PEB</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>737</xmin>
-			<ymin>2163</ymin>
-			<xmax>830</xmax>
-			<ymax>2252</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>PEB</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>522</xmin>
-			<ymin>1107</ymin>
-			<xmax>690</xmax>
-			<ymax>1242</ymax>
+			<xmax>693</xmax>
+			<ymax>1980</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -102,8 +66,8 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>1310</xmin>
-			<ymin>1056</ymin>
-			<xmax>1500</xmax>
+			<ymin>1049</ymin>
+			<xmax>1473</xmax>
 			<ymax>1212</ymax>
 		</bndbox>
 	</object>
@@ -114,8 +78,8 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>1514</xmin>
-			<ymin>1063</ymin>
-			<xmax>1651</xmax>
+			<ymin>1057</ymin>
+			<xmax>1612</xmax>
 			<ymax>1163</ymax>
 		</bndbox>
 	</object>
@@ -126,7 +90,7 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>1631</xmin>
-			<ymin>1080</ymin>
+			<ymin>1091</ymin>
 			<xmax>1840</xmax>
 			<ymax>1288</ymax>
 		</bndbox>
@@ -138,8 +102,8 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>1310</xmin>
-			<ymin>938</ymin>
-			<xmax>1486</xmax>
+			<ymin>932</ymin>
+			<xmax>1426</xmax>
 			<ymax>1035</ymax>
 		</bndbox>
 	</object>
@@ -165,54 +129,6 @@
 			<ymin>913</ymin>
 			<xmax>381</xmax>
 			<ymax>999</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>PEB</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1496</xmin>
-			<ymin>1205</ymin>
-			<xmax>1571</xmax>
-			<ymax>1266</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>PEB</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>487</xmin>
-			<ymin>741</ymin>
-			<xmax>654</xmax>
-			<ymax>896</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>PEB</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>760</xmin>
-			<ymin>1921</ymin>
-			<xmax>812</xmax>
-			<ymax>1985</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>PEB</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>557</xmin>
-			<ymin>1743</ymin>
-			<xmax>615</xmax>
-			<ymax>1880</ymax>
 		</bndbox>
 	</object>
 </annotation>

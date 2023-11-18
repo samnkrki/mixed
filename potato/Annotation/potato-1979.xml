@@ -1,7 +1,7 @@
 <annotation>
-	<folder>potato frag</folder>
+	<folder>images</folder>
 	<filename>potato-1979.jpg</filename>
-	<path>G:\samin\potato frag\potato-1979.jpg</path>
+	<path>E:\mixed\potato\images\potato-1979.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>453</xmin>
-			<ymin>462</ymin>
-			<xmax>1186</xmax>
-			<ymax>1222</ymax>
+			<xmin>4200</xmin>
+			<ymin>1572</ymin>
+			<xmax>5476</xmax>
+			<ymax>1944</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>66</xmin>
-			<ymin>22</ymin>
-			<xmax>906</xmax>
-			<ymax>549</ymax>
+			<xmin>3220</xmin>
+			<ymin>1376</ymin>
+			<xmax>3440</xmax>
+			<ymax>1636</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,10 +41,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1253</xmin>
-			<ymin>329</ymin>
-			<xmax>3006</xmax>
-			<ymax>1549</ymax>
+			<xmin>2936</xmin>
+			<ymin>1020</ymin>
+			<xmax>3540</xmax>
+			<ymax>1304</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -53,10 +53,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2966</xmin>
-			<ymin>296</ymin>
-			<xmax>5706</xmax>
-			<ymax>2256</ymax>
+			<xmin>4724</xmin>
+			<ymin>704</ymin>
+			<xmax>5416</xmax>
+			<ymax>1300</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -65,10 +65,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>853</xmin>
-			<ymin>1396</ymin>
-			<xmax>1399</xmax>
-			<ymax>2296</ymax>
+			<xmin>2940</xmin>
+			<ymin>3488</ymin>
+			<xmax>3252</xmax>
+			<ymax>3924</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -77,22 +77,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1586</xmin>
-			<ymin>1502</ymin>
-			<xmax>2819</xmax>
-			<ymax>2449</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>LB</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>2013</xmin>
-			<ymin>1829</ymin>
-			<xmax>3979</xmax>
-			<ymax>3502</ymax>
+			<xmin>3232</xmin>
+			<ymin>3728</ymin>
+			<xmax>3468</xmax>
+			<ymax>4056</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -101,9 +89,9 @@
 		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1199</xmin>
-			<ymin>3042</ymin>
-			<xmax>4393</xmax>
+			<xmin>2620</xmin>
+			<ymin>3968</ymin>
+			<xmax>3860</xmax>
 			<ymax>4312</ymax>
 		</bndbox>
 	</object>
@@ -113,22 +101,10 @@
 		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>4467</xmin>
-			<ymin>2389</ymin>
-			<xmax>5694</xmax>
+			<xmin>4796</xmin>
+			<ymin>3872</ymin>
+			<xmax>5380</xmax>
 			<ymax>4312</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>LB</name>
-		<pose>Unspecified</pose>
-		<truncated>1</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>4506</xmin>
-			<ymin>1</ymin>
-			<xmax>5726</xmax>
-			<ymax>269</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -137,10 +113,46 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1946</xmin>
-			<ymin>16</ymin>
-			<xmax>2666</xmax>
-			<ymax>322</ymax>
+			<xmin>2188</xmin>
+			<ymin>2664</ymin>
+			<xmax>2768</xmax>
+			<ymax>3256</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>LB</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2864</xmin>
+			<ymin>1952</ymin>
+			<xmax>3236</xmax>
+			<ymax>2520</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>LB</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1660</xmin>
+			<ymin>3424</ymin>
+			<xmax>2060</xmax>
+			<ymax>3808</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>LB</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4648</xmin>
+			<ymin>3480</ymin>
+			<xmax>5028</xmax>
+			<ymax>3760</ymax>
 		</bndbox>
 	</object>
 </annotation>

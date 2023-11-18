@@ -60,42 +60,6 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>LB</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>53</xmin>
-			<ymin>2766</ymin>
-			<xmax>245</xmax>
-			<ymax>2903</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>LB</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>277</xmin>
-			<ymin>3428</ymin>
-			<xmax>984</xmax>
-			<ymax>4275</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>LB</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>2991</xmin>
-			<ymin>135</ymin>
-			<xmax>3278</xmax>
-			<ymax>371</ymax>
-		</bndbox>
-	</object>
-	<object>
 		<name>PEB</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>

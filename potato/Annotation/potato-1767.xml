@@ -1,7 +1,7 @@
 <annotation>
-	<folder>potato</folder>
+	<folder>images</folder>
 	<filename>potato-1767.jpg</filename>
-	<path>D:\leafimg\potato\potato-1767.jpg</path>
+	<path>E:\mixed\potato\images\potato-1767.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,70 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>3431</xmin>
-			<ymin>1301</ymin>
-			<xmax>4289</xmax>
-			<ymax>2079</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>LB</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>2119</xmin>
-			<ymin>2736</ymin>
-			<xmax>2673</xmax>
-			<ymax>2989</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>LB</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>2439</xmin>
-			<ymin>2302</ymin>
-			<xmax>2959</xmax>
-			<ymax>2689</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>LB</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1886</xmin>
-			<ymin>989</ymin>
-			<xmax>3266</xmax>
-			<ymax>2162</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>LB</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1786</xmin>
-			<ymin>2189</ymin>
-			<xmax>2346</xmax>
-			<ymax>2669</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>LB</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>3986</xmin>
-			<ymin>2140</ymin>
-			<xmax>4523</xmax>
-			<ymax>2514</ymax>
+			<xmin>3926</xmin>
+			<ymin>1423</ymin>
+			<xmax>4234</xmax>
+			<ymax>1774</ymax>
 		</bndbox>
 	</object>
 </annotation>

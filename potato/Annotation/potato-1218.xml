@@ -59,16 +59,4 @@
 			<ymax>454</ymax>
 		</bndbox>
 	</object>
-	<object>
-		<name>LB</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>2625</xmin>
-			<ymin>1169</ymin>
-			<xmax>5566</xmax>
-			<ymax>3542</ymax>
-		</bndbox>
-	</object>
 </annotation>

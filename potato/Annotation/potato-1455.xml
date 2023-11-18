@@ -14,13 +14,13 @@
 	<object>
 		<name>LB</name>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
+		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1225</xmin>
-			<ymin>1</ymin>
-			<xmax>5040</xmax>
-			<ymax>4312</ymax>
+			<xmin>3833</xmin>
+			<ymin>2409</ymin>
+			<xmax>4573</xmax>
+			<ymax>4002</ymax>
 		</bndbox>
 	</object>
 </annotation>

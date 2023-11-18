@@ -84,18 +84,6 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>LB</name>
-		<pose>Unspecified</pose>
-		<truncated>1</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>2417</xmin>
-			<ymin>3128</ymin>
-			<xmax>3000</xmax>
-			<ymax>3531</ymax>
-		</bndbox>
-	</object>
-	<object>
 		<name>PEB</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
