@@ -11,16 +11,4 @@
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
-	<object>
-		<name>LB</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>2112</xmin>
-			<ymin>3370</ymin>
-			<xmax>2422</xmax>
-			<ymax>3841</ymax>
-		</bndbox>
-	</object>
 </annotation>

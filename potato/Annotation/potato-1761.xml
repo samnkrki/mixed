@@ -55,8 +55,20 @@
 		<bndbox>
 			<xmin>2096</xmin>
 			<ymin>2461</ymin>
-			<xmax>2601</xmax>
-			<ymax>3009</ymax>
+			<xmax>2580</xmax>
+			<ymax>2986</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>BG</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1868</xmin>
+			<ymin>4236</ymin>
+			<xmax>3549</xmax>
+			<ymax>5736</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -18,21 +18,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>677</xmin>
-			<ymin>823</ymin>
+			<ymin>880</ymin>
 			<xmax>1003</xmax>
 			<ymax>1076</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>LB</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>2177</xmin>
-			<ymin>2797</ymin>
-			<xmax>2514</xmax>
-			<ymax>3074</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -55,20 +43,8 @@
 		<bndbox>
 			<xmin>614</xmin>
 			<ymin>1420</ymin>
-			<xmax>1291</xmax>
-			<ymax>2737</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>LB</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1277</xmin>
-			<ymin>1763</ymin>
-			<xmax>1866</xmax>
-			<ymax>2491</ymax>
+			<xmax>1307</xmax>
+			<ymax>2556</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -78,21 +54,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>1186</xmin>
-			<ymin>3331</ymin>
-			<xmax>1557</xmax>
+			<ymin>3353</ymin>
+			<xmax>1520</xmax>
 			<ymax>3574</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>LB</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1389</xmin>
-			<ymin>3134</ymin>
-			<xmax>1689</xmax>
-			<ymax>3294</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -117,6 +81,138 @@
 			<ymin>3966</ymin>
 			<xmax>1446</xmax>
 			<ymax>4109</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>LB</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2191</xmin>
+			<ymin>2882</ymin>
+			<xmax>2351</xmax>
+			<ymax>3047</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>LB</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2378</xmin>
+			<ymin>2818</ymin>
+			<xmax>2476</xmax>
+			<ymax>2936</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>LB</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2353</xmin>
+			<ymin>2958</ymin>
+			<xmax>2516</xmax>
+			<ymax>3084</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>LB</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1496</xmin>
+			<ymin>3162</ymin>
+			<xmax>1567</xmax>
+			<ymax>3211</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>LB</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>642</xmin>
+			<ymin>2569</ymin>
+			<xmax>769</xmax>
+			<ymax>2700</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>LB</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1040</xmin>
+			<ymin>2587</ymin>
+			<xmax>1147</xmax>
+			<ymax>2684</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>LB</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1329</xmin>
+			<ymin>1967</ymin>
+			<xmax>1478</xmax>
+			<ymax>2156</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>LB</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1533</xmin>
+			<ymin>2004</ymin>
+			<xmax>1707</xmax>
+			<ymax>2144</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>LB</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1318</xmin>
+			<ymin>2231</ymin>
+			<xmax>1431</xmax>
+			<ymax>2480</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>LB</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1720</xmin>
+			<ymin>2136</ymin>
+			<xmax>1878</xmax>
+			<ymax>2269</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>LB</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1542</xmin>
+			<ymin>2240</ymin>
+			<xmax>1642</xmax>
+			<ymax>2398</ymax>
 		</bndbox>
 	</object>
 </annotation>

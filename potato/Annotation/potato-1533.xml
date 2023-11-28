@@ -1,4 +1,4 @@
-<annotation verified="yes">
+<annotation>
 	<folder>images</folder>
 	<filename>potato-1533.jpg</filename>
 	<path>E:\mixed\potato\images\potato-1533.jpg</path>
@@ -29,10 +29,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1319</xmin>
-			<ymin>2025</ymin>
-			<xmax>2174</xmax>
-			<ymax>2634</ymax>
+			<xmin>1370</xmin>
+			<ymin>2089</ymin>
+			<xmax>1854</xmax>
+			<ymax>2499</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>LB</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1847</xmin>
+			<ymin>2302</ymin>
+			<xmax>2131</xmax>
+			<ymax>2467</ymax>
 		</bndbox>
 	</object>
 </annotation>

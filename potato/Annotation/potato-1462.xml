@@ -12,15 +12,39 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
+		<name>BG</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2368</xmin>
+			<ymin>517</ymin>
+			<xmax>3024</xmax>
+			<ymax>1692</ymax>
+		</bndbox>
+	</object>
+	<object>
 		<name>LB</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>912</xmin>
-			<ymin>1636</ymin>
-			<xmax>2401</xmax>
-			<ymax>2679</ymax>
+			<xmin>1505</xmin>
+			<ymin>1737</ymin>
+			<xmax>2034</xmax>
+			<ymax>2128</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>LB</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1186</xmin>
+			<ymin>2004</ymin>
+			<xmax>1548</xmax>
+			<ymax>2299</ymax>
 		</bndbox>
 	</object>
 </annotation>

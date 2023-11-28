@@ -19,8 +19,8 @@
 		<bndbox>
 			<xmin>1328</xmin>
 			<ymin>579</ymin>
-			<xmax>2392</xmax>
-			<ymax>1152</ymax>
+			<xmax>2382</xmax>
+			<ymax>1094</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,9 +29,9 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2919</xmin>
-			<ymin>3161</ymin>
-			<xmax>3355</xmax>
+			<xmin>2951</xmin>
+			<ymin>3215</ymin>
+			<xmax>3322</xmax>
 			<ymax>3661</ymax>
 		</bndbox>
 	</object>
@@ -53,8 +53,8 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>3953</xmin>
-			<ymin>4323</ymin>
+			<xmin>4001</xmin>
+			<ymin>4356</ymin>
 			<xmax>4229</xmax>
 			<ymax>4594</ymax>
 		</bndbox>
@@ -110,18 +110,6 @@
 	<object>
 		<name>LB</name>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>4125</xmin>
-			<ymin>993</ymin>
-			<xmax>4312</xmax>
-			<ymax>1218</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>LB</name>
-		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
@@ -149,10 +137,46 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2829</xmin>
-			<ymin>42</ymin>
+			<xmin>2834</xmin>
+			<ymin>61</ymin>
 			<xmax>3010</xmax>
 			<ymax>280</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>BG</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1537</xmin>
+			<ymin>5070</ymin>
+			<xmax>1892</xmax>
+			<ymax>5706</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>LB</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4128</xmin>
+			<ymin>1009</ymin>
+			<xmax>4196</xmax>
+			<ymax>1128</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>LB</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4238</xmin>
+			<ymin>1112</ymin>
+			<xmax>4312</xmax>
+			<ymax>1202</ymax>
 		</bndbox>
 	</object>
 </annotation>

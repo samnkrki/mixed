@@ -14,13 +14,13 @@
 	<object>
 		<name>LB</name>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
+		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2530</xmin>
-			<ymin>960</ymin>
-			<xmax>3120</xmax>
-			<ymax>1316</ymax>
+			<xmin>2594</xmin>
+			<ymin>984</ymin>
+			<xmax>3102</xmax>
+			<ymax>1272</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,8 +29,8 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1066</xmin>
-			<ymin>1988</ymin>
+			<xmin>1094</xmin>
+			<ymin>2064</ymin>
 			<xmax>1446</xmax>
 			<ymax>2632</ymax>
 		</bndbox>

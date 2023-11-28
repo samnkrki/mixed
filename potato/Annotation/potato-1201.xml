@@ -17,46 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>3393</xmin>
-			<ymin>1689</ymin>
-			<xmax>4553</xmax>
-			<ymax>2528</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>LB</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>2071</xmin>
-			<ymin>1610</ymin>
-			<xmax>2293</xmax>
-			<ymax>1878</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>LB</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
 			<xmin>1496</xmin>
-			<ymin>1900</ymin>
-			<xmax>1768</xmax>
+			<ymin>1984</ymin>
+			<xmax>1700</xmax>
 			<ymax>2276</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>LB</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>2424</xmin>
-			<ymin>2032</ymin>
-			<xmax>3072</xmax>
-			<ymax>2972</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -81,6 +45,54 @@
 			<ymin>2580</ymin>
 			<xmax>3452</xmax>
 			<ymax>2760</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>LB</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3593</xmin>
+			<ymin>2069</ymin>
+			<xmax>4033</xmax>
+			<ymax>2416</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>LB</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3526</xmin>
+			<ymin>1782</ymin>
+			<xmax>3966</xmax>
+			<ymax>2062</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>LB</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2456</xmin>
+			<ymin>2108</ymin>
+			<xmax>2864</xmax>
+			<ymax>2532</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>LB</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2700</xmin>
+			<ymin>2468</ymin>
+			<xmax>3016</xmax>
+			<ymax>2888</ymax>
 		</bndbox>
 	</object>
 </annotation>
