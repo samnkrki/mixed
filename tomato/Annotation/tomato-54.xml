@@ -1,0 +1,38 @@
+<annotation>
+	<folder>tomato</folder>
+	<filename>tomato-54.jpg</filename>
+	<path>D:\Tomato downloaded\All tomato pics\tomato\tomato-54.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4312</width>
+		<height>5760</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>LCV</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1659</xmin>
+			<ymin>1184</ymin>
+			<xmax>2179</xmax>
+			<ymax>1672</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>LCV</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2282</xmin>
+			<ymin>1599</ymin>
+			<xmax>3817</xmax>
+			<ymax>2618</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -3,7 +3,7 @@ images/
 potato_many
 *.txt
 capsicum
-tomato
+# tomato
 chilli
 labels/
 *.csv

@@ -1,0 +1,50 @@
+<annotation>
+	<folder>tomato frag</folder>
+	<filename>tomato-3244.jpg</filename>
+	<path>G:\samin\tomato frag\tomato-3244.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5760</width>
+		<height>4312</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>TSLB</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2106</xmin>
+			<ymin>1342</ymin>
+			<xmax>4759</xmax>
+			<ymax>4009</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>TSLB</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>606</xmin>
+			<ymin>2142</ymin>
+			<xmax>1306</xmax>
+			<ymax>2882</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>TSLB</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1406</xmin>
+			<ymin>3436</ymin>
+			<xmax>2513</xmax>
+			<ymax>4069</ymax>
+		</bndbox>
+	</object>
+</annotation>

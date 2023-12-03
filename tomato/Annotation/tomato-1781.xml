@@ -1,0 +1,26 @@
+<annotation>
+	<folder>tomato</folder>
+	<filename>tomato-1781.jpg</filename>
+	<path>D:\leafimg\tomato\tomato-1781.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3120</width>
+		<height>4160</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>INS</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1871</xmin>
+			<ymin>570</ymin>
+			<xmax>2116</xmax>
+			<ymax>761</ymax>
+		</bndbox>
+	</object>
+</annotation>

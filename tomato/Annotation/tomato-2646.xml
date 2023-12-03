@@ -1,0 +1,50 @@
+<annotation>
+	<folder>tomato frag</folder>
+	<filename>tomato-2646.jpg</filename>
+	<path>G:\samin\tomato frag\tomato-2646.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4312</width>
+		<height>5760</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>INS</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1146</xmin>
+			<ymin>2306</ymin>
+			<xmax>3319</xmax>
+			<ymax>3879</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>TBC</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2655</xmin>
+			<ymin>3843</ymin>
+			<xmax>3755</xmax>
+			<ymax>5270</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>LB</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>446</xmin>
+			<ymin>79</ymin>
+			<xmax>3328</xmax>
+			<ymax>2179</ymax>
+		</bndbox>
+	</object>
+</annotation>

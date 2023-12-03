@@ -1,0 +1,26 @@
+<annotation>
+	<folder>tomato</folder>
+	<filename>tomato-1210.jpg</filename>
+	<path>D:\leafimg\tomato\tomato-1210.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3000</width>
+		<height>4000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>LB</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>26</xmin>
+			<ymin>84</ymin>
+			<xmax>3000</xmax>
+			<ymax>3707</ymax>
+		</bndbox>
+	</object>
+</annotation>

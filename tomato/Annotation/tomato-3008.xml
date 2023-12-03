@@ -1,0 +1,26 @@
+<annotation>
+	<folder>tomato frag</folder>
+	<filename>tomato-3008.jpg</filename>
+	<path>G:\samin\tomato frag\tomato-3008.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4312</width>
+		<height>5760</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>TFW</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>628</xmin>
+			<ymin>1388</ymin>
+			<xmax>4092</xmax>
+			<ymax>5634</ymax>
+		</bndbox>
+	</object>
+</annotation>

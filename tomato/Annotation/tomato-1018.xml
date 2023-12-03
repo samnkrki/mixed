@@ -1,0 +1,38 @@
+<annotation>
+	<folder>tomato</folder>
+	<filename>tomato-1018.jpg</filename>
+	<path>D:\Tomato downloaded\All tomato pics\tomato\tomato-1018.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5760</width>
+		<height>4312</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>LB</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2436</xmin>
+			<ymin>593</ymin>
+			<xmax>3808</xmax>
+			<ymax>3241</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>ND-LS</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>932</xmin>
+			<ymin>8</ymin>
+			<xmax>2398</xmax>
+			<ymax>1469</ymax>
+		</bndbox>
+	</object>
+</annotation>
