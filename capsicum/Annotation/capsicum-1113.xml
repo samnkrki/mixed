@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Capsicum frag</folder>
+	<filename>capsicum-1113.jpg</filename>
+	<path>G:\samin\Capsicum frag\capsicum-1113.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4312</width>
+		<height>5760</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>A</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>358</xmin>
+			<ymin>1060</ymin>
+			<xmax>738</xmax>
+			<ymax>1945</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>A</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1596</xmin>
+			<ymin>1076</ymin>
+			<xmax>2799</xmax>
+			<ymax>2173</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>A</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>515</xmin>
+			<ymin>2841</ymin>
+			<xmax>1944</xmax>
+			<ymax>3805</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>capsicum</folder>
+	<filename>capsicum-834.jpg</filename>
+	<path>D:\leafimg\capsicum\capsicum-834.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5760</width>
+		<height>4312</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>LB</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2201</xmin>
+			<ymin>1913</ymin>
+			<xmax>3768</xmax>
+			<ymax>3051</ymax>
+		</bndbox>
+	</object>
+</annotation>

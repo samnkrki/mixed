@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Capsicum frag</folder>
+	<filename>capsicum-1317.jpg</filename>
+	<path>G:\samin\Capsicum frag\capsicum-1317.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4312</width>
+		<height>5760</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>INS</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3064</xmin>
+			<ymin>4005</ymin>
+			<xmax>3234</xmax>
+			<ymax>4196</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>INS</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2167</xmin>
+			<ymin>5406</ymin>
+			<xmax>2438</xmax>
+			<ymax>5640</ymax>
+		</bndbox>
+	</object>
+</annotation>

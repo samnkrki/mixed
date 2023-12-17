@@ -1,0 +1,26 @@
+<annotation>
+	<folder>capsicum</folder>
+	<filename>capsicum-135.jpg</filename>
+	<path>E:\mixed\capsicum\capsicum-135.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5760</width>
+		<height>4312</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>disease</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3059</xmin>
+			<ymin>2029</ymin>
+			<xmax>3919</xmax>
+			<ymax>3136</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>capsicum</folder>
+	<filename>capsicum-298.jpg</filename>
+	<path>F:\leafimg\capsicum\capsicum-298.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5760</width>
+		<height>4312</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>LCV</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1380</xmin>
+			<ymin>348</ymin>
+			<xmax>5288</xmax>
+			<ymax>3217</ymax>
+		</bndbox>
+	</object>
+</annotation>

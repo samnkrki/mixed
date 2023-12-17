@@ -1,0 +1,26 @@
+<annotation>
+	<folder>capsicum</folder>
+	<filename>capsicum-820.jpg</filename>
+	<path>D:\leafimg\capsicum\capsicum-820.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5760</width>
+		<height>4312</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>INS</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2501</xmin>
+			<ymin>1994</ymin>
+			<xmax>3028</xmax>
+			<ymax>2582</ymax>
+		</bndbox>
+	</object>
+</annotation>
