@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Capsicum frag</folder>
+	<folder>images</folder>
 	<filename>capsicum-1088.jpg</filename>
-	<path>G:\samin\Capsicum frag\capsicum-1088.jpg</path>
+	<path>E:\mixed\capsicum\images\capsicum-1088.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -18,8 +18,8 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>2459</xmin>
-			<ymin>2149</ymin>
-			<xmax>2979</xmax>
+			<ymin>2276</ymin>
+			<xmax>2973</xmax>
 			<ymax>2762</ymax>
 		</bndbox>
 	</object>

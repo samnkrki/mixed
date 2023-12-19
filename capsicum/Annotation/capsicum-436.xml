@@ -1,7 +1,7 @@
 <annotation>
-	<folder>capsicum</folder>
+	<folder>images</folder>
 	<filename>capsicum-436.jpg</filename>
-	<path>F:\leafimg\capsicum\capsicum-436.jpg</path>
+	<path>E:\mixed\capsicum\images\capsicum-436.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -11,54 +11,6 @@
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
-	<object>
-		<name>LB</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>2095</xmin>
-			<ymin>1510</ymin>
-			<xmax>4587</xmax>
-			<ymax>3009</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>LB</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>972</xmin>
-			<ymin>1986</ymin>
-			<xmax>1618</xmax>
-			<ymax>2555</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>LB</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>3287</xmin>
-			<ymin>509</ymin>
-			<xmax>4341</xmax>
-			<ymax>1463</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>LB</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>4176</xmin>
-			<ymin>3263</ymin>
-			<xmax>5030</xmax>
-			<ymax>3963</ymax>
-		</bndbox>
-	</object>
 	<object>
 		<name>BLS</name>
 		<pose>Unspecified</pose>

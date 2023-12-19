@@ -1,7 +1,7 @@
 <annotation>
-	<folder>capsicum</folder>
+	<folder>images</folder>
 	<filename>capsicum-846.jpg</filename>
-	<path>D:\leafimg\capsicum\capsicum-846.jpg</path>
+	<path>E:\mixed\capsicum\images\capsicum-846.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1044</xmin>
-			<ymin>1613</ymin>
-			<xmax>2253</xmax>
-			<ymax>4070</ymax>
+			<xmin>3528</xmin>
+			<ymin>2148</ymin>
+			<xmax>3740</xmax>
+			<ymax>2504</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,10 +41,34 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2596</xmin>
-			<ymin>1503</ymin>
-			<xmax>3953</xmax>
-			<ymax>3898</ymax>
+			<xmin>3168</xmin>
+			<ymin>3212</ymin>
+			<xmax>3708</xmax>
+			<ymax>3472</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>LB</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2700</xmin>
+			<ymin>3348</ymin>
+			<xmax>3224</xmax>
+			<ymax>3624</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>LB</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1360</xmin>
+			<ymin>1704</ymin>
+			<xmax>2044</xmax>
+			<ymax>2128</ymax>
 		</bndbox>
 	</object>
 </annotation>

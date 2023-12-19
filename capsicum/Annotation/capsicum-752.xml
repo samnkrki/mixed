@@ -1,7 +1,7 @@
 <annotation>
-	<folder>capsicum</folder>
+	<folder>images</folder>
 	<filename>capsicum-752.jpg</filename>
-	<path>D:\leafimg\capsicum\capsicum-752.jpg</path>
+	<path>E:\mixed\capsicum\images\capsicum-752.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -11,42 +11,6 @@
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
-	<object>
-		<name>LB</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1196</xmin>
-			<ymin>3251</ymin>
-			<xmax>2002</xmax>
-			<ymax>4276</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>LB</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1659</xmin>
-			<ymin>4876</ymin>
-			<xmax>2459</xmax>
-			<ymax>5501</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>LB</name>
-		<pose>Unspecified</pose>
-		<truncated>1</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>3127</xmin>
-			<ymin>4408</ymin>
-			<xmax>4312</xmax>
-			<ymax>5371</ymax>
-		</bndbox>
-	</object>
 	<object>
 		<name>INS</name>
 		<pose>Unspecified</pose>
@@ -93,6 +57,54 @@
 			<ymin>3382</ymin>
 			<xmax>3334</xmax>
 			<ymax>4914</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>LB</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1177</xmin>
+			<ymin>3489</ymin>
+			<xmax>1277</xmax>
+			<ymax>3577</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>LB</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1194</xmin>
+			<ymin>3577</ymin>
+			<xmax>1360</xmax>
+			<ymax>3672</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>LB</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2114</xmin>
+			<ymin>4862</ymin>
+			<xmax>2340</xmax>
+			<ymax>5094</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>LB</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3463</xmin>
+			<ymin>4856</ymin>
+			<xmax>3577</xmax>
+			<ymax>5047</ymax>
 		</bndbox>
 	</object>
 </annotation>

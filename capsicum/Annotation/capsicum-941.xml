@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Capsicum frag</folder>
+	<folder>images</folder>
 	<filename>capsicum-941.jpg</filename>
-	<path>G:\samin\Capsicum frag\capsicum-941.jpg</path>
+	<path>E:\mixed\capsicum\images\capsicum-941.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,22 +17,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>19</xmin>
-			<ymin>2589</ymin>
-			<xmax>1339</xmax>
-			<ymax>4156</ymax>
+			<xmin>2572</xmin>
+			<ymin>2116</ymin>
+			<xmax>2784</xmax>
+			<ymax>2456</ymax>
 		</bndbox>
 	</object>
 	<object>
 		<name>LB</name>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
+		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1259</xmin>
-			<ymin>556</ymin>
-			<xmax>5753</xmax>
-			<ymax>4312</ymax>
+			<xmin>2956</xmin>
+			<ymin>2572</ymin>
+			<xmax>3152</xmax>
+			<ymax>2708</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Capsicum frag</folder>
+	<folder>images</folder>
 	<filename>capsicum-1144.jpg</filename>
-	<path>G:\samin\Capsicum frag\capsicum-1144.jpg</path>
+	<path>E:\mixed\capsicum\images\capsicum-1144.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -11,18 +11,6 @@
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
-	<object>
-		<name>LB</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>2855</xmin>
-			<ymin>2082</ymin>
-			<xmax>3155</xmax>
-			<ymax>2473</ymax>
-		</bndbox>
-	</object>
 	<object>
 		<name>LB-A</name>
 		<pose>Unspecified</pose>
@@ -108,18 +96,6 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>LB</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>3307</xmin>
-			<ymin>847</ymin>
-			<xmax>3745</xmax>
-			<ymax>989</ymax>
-		</bndbox>
-	</object>
-	<object>
 		<name>INS</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
@@ -165,6 +141,54 @@
 			<ymin>943</ymin>
 			<xmax>2851</xmax>
 			<ymax>1554</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>LB</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3420</xmin>
+			<ymin>879</ymin>
+			<xmax>3515</xmax>
+			<ymax>935</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>LB</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2971</xmin>
+			<ymin>2310</ymin>
+			<xmax>3031</xmax>
+			<ymax>2421</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>LB</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3035</xmin>
+			<ymin>2259</ymin>
+			<xmax>3098</xmax>
+			<ymax>2363</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>LB</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2949</xmin>
+			<ymin>2119</ymin>
+			<xmax>3053</xmax>
+			<ymax>2235</ymax>
 		</bndbox>
 	</object>
 </annotation>

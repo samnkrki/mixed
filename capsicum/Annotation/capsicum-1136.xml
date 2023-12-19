@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Capsicum frag</folder>
+	<folder>images</folder>
 	<filename>capsicum-1136.jpg</filename>
-	<path>G:\samin\Capsicum frag\capsicum-1136.jpg</path>
+	<path>E:\mixed\capsicum\images\capsicum-1136.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1528</xmin>
-			<ymin>4109</ymin>
-			<xmax>2072</xmax>
-			<ymax>4645</ymax>
+			<xmin>957</xmin>
+			<ymin>5160</ymin>
+			<xmax>1412</xmax>
+			<ymax>5393</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2526</xmin>
-			<ymin>3736</ymin>
-			<xmax>2697</xmax>
-			<ymax>4009</ymax>
+			<xmin>2512</xmin>
+			<ymin>5228</ymin>
+			<xmax>2651</xmax>
+			<ymax>5399</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,22 +41,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2164</xmin>
-			<ymin>2886</ymin>
-			<xmax>2299</xmax>
-			<ymax>2980</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>LB</name>
-		<pose>Unspecified</pose>
-		<truncated>1</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>873</xmin>
-			<ymin>5128</ymin>
-			<xmax>1554</xmax>
-			<ymax>5760</ymax>
+			<xmin>1296</xmin>
+			<ymin>4160</ymin>
+			<xmax>1373</xmax>
+			<ymax>4273</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -65,10 +53,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1654</xmin>
-			<ymin>5115</ymin>
-			<xmax>1993</xmax>
-			<ymax>5593</ymax>
+			<xmin>1796</xmin>
+			<ymin>5231</ymin>
+			<xmax>1938</xmax>
+			<ymax>5415</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -77,10 +65,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2415</xmin>
-			<ymin>4989</ymin>
-			<xmax>2696</xmax>
-			<ymax>5441</ymax>
+			<xmin>2493</xmin>
+			<ymin>5144</ymin>
+			<xmax>2557</xmax>
+			<ymax>5247</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -89,10 +77,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1157</xmin>
-			<ymin>4131</ymin>
-			<xmax>1409</xmax>
-			<ymax>4386</ymax>
+			<xmin>1612</xmin>
+			<ymin>4173</ymin>
+			<xmax>1876</xmax>
+			<ymax>4447</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -101,10 +89,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>3747</xmin>
-			<ymin>1360</ymin>
-			<xmax>4180</xmax>
-			<ymax>1805</ymax>
+			<xmin>4053</xmin>
+			<ymin>1460</ymin>
+			<xmax>4170</xmax>
+			<ymax>1536</ymax>
 		</bndbox>
 	</object>
 </annotation>

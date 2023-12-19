@@ -1,7 +1,7 @@
 <annotation>
-	<folder>capsicum</folder>
+	<folder>images</folder>
 	<filename>capsicum-627.jpg</filename>
-	<path>D:\leafimg\capsicum\capsicum-627.jpg</path>
+	<path>E:\mixed\capsicum\images\capsicum-627.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -38,13 +38,13 @@
 	<object>
 		<name>LB</name>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
+		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2533</xmin>
-			<ymin>4080</ymin>
-			<xmax>4017</xmax>
-			<ymax>5760</ymax>
+			<xmin>3076</xmin>
+			<ymin>4460</ymin>
+			<xmax>3286</xmax>
+			<ymax>4928</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -1,7 +1,7 @@
 <annotation>
-	<folder>capsicum</folder>
+	<folder>images</folder>
 	<filename>capsicum-435.jpg</filename>
-	<path>F:\leafimg\capsicum\capsicum-435.jpg</path>
+	<path>E:\mixed\capsicum\images\capsicum-435.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -11,90 +11,6 @@
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
-	<object>
-		<name>LB</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>2457</xmin>
-			<ymin>1786</ymin>
-			<xmax>3726</xmax>
-			<ymax>3725</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>LB</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>4980</xmin>
-			<ymin>1278</ymin>
-			<xmax>5695</xmax>
-			<ymax>2532</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>LB</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>3187</xmin>
-			<ymin>409</ymin>
-			<xmax>3934</xmax>
-			<ymax>1717</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>LB</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1839</xmin>
-			<ymin>989</ymin>
-			<xmax>2665</xmax>
-			<ymax>1817</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>LB</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>4042</xmin>
-			<ymin>2164</ymin>
-			<xmax>4456</xmax>
-			<ymax>3234</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>LB</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>3782</xmin>
-			<ymin>2703</ymin>
-			<xmax>4038</xmax>
-			<ymax>3286</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>LB</name>
-		<pose>Unspecified</pose>
-		<truncated>1</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>2605</xmin>
-			<ymin>3069</ymin>
-			<xmax>3396</xmax>
-			<ymax>4312</ymax>
-		</bndbox>
-	</object>
 	<object>
 		<name>ND</name>
 		<pose>Unspecified</pose>
